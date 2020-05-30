@@ -1,0 +1,29 @@
+body{
+    background: #999;
+}
+
+span{
+    background: #930;
+    display: block;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+div{
+    background: #345;
+    display: block;
+    width: 45%;
+    height: 100px;
+    clear: both;
+    text-transform: capitalize;
+}
+
+p{
+    background: #836;
+    display: inline-block;
+    width: 45%;
+    height: 10%;
+    float: left;
+}
+
