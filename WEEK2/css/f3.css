@@ -1,0 +1,21 @@
+a{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    padding: 5px;
+    background: #0006cc;
+    color: #fff;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  a:hover{
+    background: #b3b3b3;
+    color: #0006cc;
+  }
+  a:focus{
+    background: #b3b3b3;
+    color: #0006cc;
+  }
+  a:
